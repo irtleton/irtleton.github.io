@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://irtleton.github.io/sitemap.html.gz
+Sitemap: https://irtleton.github.io/app/sitemap.html.gz
+Sitemap: https://irtleton.github.io/assets/sitemap.html.gz
+Sitemap: https://irtleton.github.io/css/sitemap.html.gz
+Sitemap: https://irtleton.github.io/data/sitemap.html.gz
+Sitemap: https://irtleton.github.io/includes/sitemap.html.gz
+Sitemap: https://irtleton.github.io/item/sitemap.html.gz
+Sitemap: https://irtleton.github.io/src/sitemap.html.gz
